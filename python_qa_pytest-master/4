@@ -1,0 +1,20 @@
+Collecting pytest
+  Using cached pytest-7.2.0-py3-none-any.whl (316 kB)
+Collecting packaging
+  Downloading packaging-22.0-py3-none-any.whl (42 kB)
+     -------------------------------------- 42.6/42.6 kB 688.9 kB/s eta 0:00:00
+Collecting colorama
+  Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Collecting tomli>=1.0.0
+  Downloading tomli-2.0.1-py3-none-any.whl (12 kB)
+Collecting attrs>=19.2.0
+  Downloading attrs-22.2.0-py3-none-any.whl (60 kB)
+     ---------------------------------------- 60.0/60.0 kB 3.1 MB/s eta 0:00:00
+Collecting pluggy<2.0,>=0.12
+  Downloading pluggy-1.0.0-py2.py3-none-any.whl (13 kB)
+Collecting iniconfig
+  Downloading iniconfig-1.1.1-py2.py3-none-any.whl (5.0 kB)
+Collecting exceptiongroup>=1.0.0rc8
+  Downloading exceptiongroup-1.0.4-py3-none-any.whl (14 kB)
+Installing collected packages: iniconfig, tomli, pluggy, packaging, exceptiongroup, colorama, attrs, pytest
+Successfully installed attrs-22.2.0 colorama-0.4.6 exceptiongroup-1.0.4 iniconfig-1.1.1 packaging-22.0 pluggy-1.0.0 pytest-7.2.0 tomli-2.0.1
